@@ -69,10 +69,4 @@ The example playbook demonstrates how to create an application and version and u
 
 License
 -------
-
 MIT
-
-Author Information
-------------------
-
-[Harpreet Singh](http://about.me/hs)
